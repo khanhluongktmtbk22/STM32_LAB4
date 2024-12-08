@@ -1,0 +1,3 @@
+testled.c:9:6:ledRed	8	static
+testled.c:16:6:ledYellow	8	static
+testled.c:23:6:ledGreen	8	static

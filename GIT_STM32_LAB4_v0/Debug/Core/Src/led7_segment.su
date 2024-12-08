@@ -1,0 +1,10 @@
+led7_segment.c:10:6:display7Seg0	16	static
+led7_segment.c:81:6:display7Seg1	16	static
+led7_segment.c:152:6:display7Seg2	16	static
+led7_segment.c:223:6:display7Seg3	16	static
+led7_segment.c:295:6:animation1	8	static
+led7_segment.c:315:6:animation2	8	static
+led7_segment.c:335:6:setCountDown7Seg0	16	static
+led7_segment.c:345:6:setCountDown7Seg1	16	static
+led7_segment.c:355:6:runCountDown7Seg0	8	static
+led7_segment.c:368:6:runCountDown7Seg1	8	static
